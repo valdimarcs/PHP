@@ -8,8 +8,17 @@
 <body>
 <h1>
 	<?php
-	$nome = "Geovane";
-	echo  $nome; // esse é um comentário
+	$nome = 'Mauro George';
+	$nascimento = '06/09/1989';
+	$sobre_nome = 'Oliveira Tavares';
+
+
+	echo  $nome;
+	echo '<br />';
+	echo $nascimento;
+	echo '<br /';
+	echo $sobre_nome;
+	// esse é um comentário
 	/* esse comentario é de 
 	varias linhas de texto e pode aumentar
 	*/
