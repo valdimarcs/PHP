@@ -16,7 +16,7 @@
 	echo  $nome;
 	echo '<br />';
 	echo $nascimento;
-	echo '<br /';
+	echo '<br />';
 	echo $sobre_nome;
 	// esse é um comentário
 	/* esse comentario é de 
